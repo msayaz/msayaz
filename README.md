@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayaz
-- 👀 I’m interested in Java and Automation
-- 🌱 I’m currently learning Java, Python and Unity 
+- 👀 I’m interested in Java, Python and Automation
+- 🌱 I’m currently learning Java and Unity 
 - 📫 Anyone can reach me from here
 
 <!---
