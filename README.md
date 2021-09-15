@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayaz
-- 👀 I’m interested in Java, Python and Automation Testing
+- 👀 I’m interested in Java, Automation Testing and Python
 - 🌱 I’m currently learning Java and Many Testing Tools 
 - 📫 Anyone can reach me from here
 
